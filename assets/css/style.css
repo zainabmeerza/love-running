@@ -186,6 +186,9 @@ hr {
     border-radius: 50%;
 }
 
+#gap{
+    height: 100px;
+}
 /* event times */
 
 #times{
